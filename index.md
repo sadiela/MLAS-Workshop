@@ -87,7 +87,7 @@ Researchers submitting to our workshop may also be interested in [The ICML Expre
 
 [Mirco Ravanelli](https://scholar.google.com/citations?hl=en&user=-6Pj3IYAAAAJ) (Concordia/MILA)
 
-Area of Interest: deep learning, speech recognition, far-field speech recognition, robust acoustic scene analysis, cooperative learning, unsupervised learning
+**Area of Interest**: deep learning, speech recognition, far-field speech recognition, robust acoustic scene analysis, cooperative learning, unsupervised learning
 
 **Talk Title**: Cooperative Conversational AI
 
@@ -98,7 +98,7 @@ Current solutions mainly rely on independent modules combined in plain unidirect
 
 [Gus Xia](https://scholar.google.com/citations?user=h8-nXFcAAAAJ&hl=en&oi=ao) (Music X Lab NYU)
 
-Area of Interest: Interactive intelligent systems to extend human musical creation and expression.
+**Area of Interest**: Interactive intelligent systems to extend human musical creation and expression.
 
 **Talk Title**: A hierarchical representation learning approach for source separation, transcription, and music generation.
 
