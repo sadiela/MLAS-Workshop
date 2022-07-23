@@ -105,19 +105,19 @@ Area of Interest: Interactive intelligent systems to extend human musical creati
 **Abstract**: With interpretable music representation learning, music source separation problems are well connected with transcription problems, and transcription problems can be transformed into music arrangement problems. In particular, Gus will discuss two recently developed models. The first one used a pitch-timbre disentanglement to achieve source separation, transcription, and synthesis. The second one used cross-modal chord-texture disentanglement to solve audio-to-symbolic piano arrangement. In the end, Gus will show his vision of a unified hierarchical representation-learning framework that bridges music understanding and generation.
 
 ### Accepted Papers
-[Generating Detailed Music Datasets with Neural Audio Synthesis](mlasworkshop/MLAS_Music_Datasets.pdf)
+[Generating Detailed Music Datasets with Neural Audio Synthesis](MLAS_Music_Datasets.pdf)
 Yusong Wu, Joshua Gardner, Ethan Manilow, Ian Simon, Curtis Hawthorne, Jesse Engel
 
-[Adversarial Audio Synthesis with Complex-valued Polynomial Networks](mlas-workshop/MLAS_Complex_Poly.pdf)
+[Adversarial Audio Synthesis with Complex-valued Polynomial Networks](MLAS_Complex_Poly.pdf)
 Yongtao Wu, Grigorios Chrysos, Volkan Cevher
 
-[Speech De-warping: Unsupervised Pre-training for Data-Efficient Text-to-Speech on Low Resource Languages](mlas-workshop/MLAS_Speech_Dewarping.pdf)
+[Speech De-warping: Unsupervised Pre-training for Data-Efficient Text-to-Speech on Low Resource Languages](MLAS_Speech_Dewarping.pdf)
 Myungseo Song, Seongyeon Park, bohyung kim, Tae-Hyun Oh
 
-[DrumGAN VST: A Plugin for Drum Sound Analysis/Synthesis with Autoencoding Generative Adversarial Networks](mlas-workshop/MLAS_DrumGAN_VST.pdf)
+[DrumGAN VST: A Plugin for Drum Sound Analysis/Synthesis with Autoencoding Generative Adversarial Networks](MLAS_DrumGAN_VST.pdf)
 Javier Nistal, Cyran Aouameur, Ithan Velarde, Stefan Lattner
 
-[DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs](mlas-workshop/MLAS_DiffGAN-TTS.pdf)
+[DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs](MLAS_DiffGAN-TTS.pdf)
 Songxiang Liu, Dan Su, Dong Yu
 
 ### Organizers
